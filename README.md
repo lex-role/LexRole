@@ -1,5 +1,5 @@
 
-# 👋 Hola! Soc l’Àlex Rodríguez Ledo
+# 👋 Hola! Soc en Lex Role
 
 🎯 **Desenvolupador frontend junior** amb un background tècnic sòlid en sistemes i molta passió pel món web.
 
